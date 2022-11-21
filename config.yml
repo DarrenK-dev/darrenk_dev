@@ -3,6 +3,8 @@ title: DarrenK.dev
 paginate: 5
 theme: PaperMod
 
+uglyurls: true
+
 enableRobotsTXT: true
 buildDrafts: false
 buildFuture: false
