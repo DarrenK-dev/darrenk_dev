@@ -1,9 +1,9 @@
 ---
-title: "My First Post"
+title: "Test Post"
 date: 2022-11-23T08:26:48Z
 tags: ['test-tag-1', 'test-tag-2', 'test-tag-3']
 categories: ['test-category-1']
-draft: false
+draft: true
 author: "Jon Doe"
 ---
 
