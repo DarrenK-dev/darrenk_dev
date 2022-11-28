@@ -87,8 +87,8 @@ params:
       url: "https://github.com/DarrenK-dev"
 
   analytics:
-    # google:
-    #   SiteVerificationTag: "G-YLKJNRSK5D"
+    google:
+      SiteVerificationTag: "G-YLKJNRSK5D"
     # bing:
     #   SiteVerificationTag: "XYZabc"
     # yandex:
