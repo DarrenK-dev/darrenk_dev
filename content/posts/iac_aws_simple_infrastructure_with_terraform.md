@@ -9,7 +9,7 @@ ___
 ## Prerequisites
 In order to follow along with this tutorial you'll need to have a few things setup including an AWS account, a User with programmatic access to aws with the correct policies to create, manage and remove aws resources detailed in this tutorial and aws-cli.
 
-I've written a short tutorial on my Terraform setup [here](#)...
+I've written a short tutorial on my Terraform setup [here](#).
 ___
 
 ### Setting up Terraform
