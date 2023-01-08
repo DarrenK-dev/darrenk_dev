@@ -1,6 +1,8 @@
+# force build comment!
+
+
 public/
 
-# force build comment
 
 .hugo_build.lock
 
