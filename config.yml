@@ -1,4 +1,4 @@
-baseURL: "http://darrenk.dev.staging.s3-website-us-east-1.amazonaws.com/"
+baseURL: "darrenk.dev"
 title: darrenk.dev
 paginate: 5
 theme: PaperMod
