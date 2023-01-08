@@ -1,5 +1,7 @@
 public/
 
+.hugo_build.lock
+
 # tutorials key-pair
 tutorials.pem
 *.pem
