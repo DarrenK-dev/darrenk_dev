@@ -1,0 +1,12 @@
+- name: Gather EC2 instance facts
+  ec2_instance_facts:
+    filters:
+      instance-state-name: running
+      tag:Name: ansible
+  register: ec2
+
+- name: Add discovered instances to group
+  community.general.add_host:
+    name: "{{ item.private_ip }}"
+    groups: group_name
+  loop: "{{ ec2.instances }}"
