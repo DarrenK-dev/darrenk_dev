@@ -1,6 +1,7 @@
 public/
 
-# 
+# force build comment
+
 .hugo_build.lock
 
 # tutorials key-pair
