@@ -19,7 +19,7 @@ phases:
     commands:
       - rm -rf public
       - hugo
-      - aws s3 sync public/ s3://darrenk.dev/ --region us-east-1 --delete
+      - aws s3 sync public/ s3://darrenk.dev.staging/ --region us-east-1 --delete
   post_build:
     commands:
       - echo Build completed on `date`
